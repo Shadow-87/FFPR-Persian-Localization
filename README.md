@@ -10,7 +10,7 @@ Credits:<br>
 - [Mohammad Javad Nemati](https://github.com/MNj32): Translation<br>
 - [Rahim](http://t.me/rahim_r_j): Text Replacing<br>
 - [Heidar](https://x.com/Haydar_web3): Logo Editing<br><br>
-Special Thanks to:<br><br>
+Special Thanks to:<br>
 - [General](https://t.me/Final_Fantasy_Persian): for years of effort for the Persian Final Fantasy community.<br>
 - Sina Hosseini<br>
 - Arshia<br><br>
